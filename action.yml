@@ -49,4 +49,4 @@ outputs:
     description: 'If this workflow is running on a pull request or not.'
 runs:
   using: 'node12'
-  main: 'index.js'
+  main: 'dist/index.js'
